@@ -1,3 +1,4 @@
+
 USE aivoa_rca;
 SHOW TABLES;
 SELECT COUNT(*) AS total_deviations FROM deviations;
